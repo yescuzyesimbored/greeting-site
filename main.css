@@ -1,0 +1,13 @@
+.shaped {
+    background: linear-gradient(180deg, #154, #612461);
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    color: white;
+    
+}
+button {
+    background:none;
+    border: 0;
+    padding: 80px;
+}
